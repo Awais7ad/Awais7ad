@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Awais Anwar</h1>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width = "400" src ="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg"> </img>
+<img align="right" alt="Coding" width = "300" height="180" src ="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg"> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Awais7ad&label=Profile%20views&color=0e75b6&style=flat" alt="Awais7ad" /> </p>
 
